@@ -47,7 +47,7 @@ class Server(BaseHTTPRequestHandler):
             self.wfile.write(response)
 
 
-def run_http_srv(server_class=HTTPServer, handler_class=Server, port=8008):
+def run_http_srv(server_class=HTTPServer, handler_class=Server, port=8000):
     server_address = ('', port)
     httpd = server_class(server_address, handler_class)
 
