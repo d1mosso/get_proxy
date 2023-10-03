@@ -14,5 +14,5 @@
 **_dimosso/get_proxy:beta_**
 
 Скачивание и запуск контейнера:
-1) docker pull dimosso/get_proxy:beta
-2) docker run -d --restart=always -p 8000:8000/tcp dimosso/get_proxy:beta
+
+- docker run -d --restart=always -p 8000:8000/tcp dimosso/get_proxy:beta
