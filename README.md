@@ -1,7 +1,7 @@
 # get proxy
 :mushroom:
 #### Сбор и валидация прокси в реальном времени из открытых источников: 
-#### https://www.sslproxies.org/, https://free-proxy-list.net/, https://www.sslproxies.org/).
+#### https://www.sslproxies.org/, https://free-proxy-list.net/, https://www.sslproxies.org/
 #### Cоздание списка из 10 рабочих и постоянная их актуализаця.
 
 ### API:
